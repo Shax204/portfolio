@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "portfolio-demo"
+    "name": "sanity"
   },
   "api": {
-    "projectId": "ltuexkre",
+    "projectId": "htydilli",
     "dataset": "production"
   },
   "plugins": [
